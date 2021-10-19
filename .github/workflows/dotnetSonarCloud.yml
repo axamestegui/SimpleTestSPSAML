@@ -28,10 +28,13 @@ jobs:
           dotnet-version: 5.0.x
       - name: Restore dependencies
         run: dotnet restore
+        working-directory: SPExample_SAML_PoC
       - name: Build
         run: dotnet build --no-restore
+        working-directory: SPExample_SAML_PoC
       - name: Test
         run: dotnet test --no-build --verbosity normal
+        working-directory: SPExample_SAML_PoC
       - name: Cache SonarCloud packages
         uses: actions/cache@v1
         with:
@@ -57,6 +60,7 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         shell: powershell
         run: |
-          .\.sonar\scanner\dotnet-sonarscanner begin /k:"Demos101" /o:"axamestegui" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
+          .\.sonar\scanner\dotnet-sonarscanner begin /k:"axamestegui_SimpleTestSPSAML" /o:"axamestegui" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
           dotnet build --configuration Release
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
+        working-directory: SPExample_SAML_PoC
