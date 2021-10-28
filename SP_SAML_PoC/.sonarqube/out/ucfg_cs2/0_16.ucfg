@@ -1,0 +1,31 @@
+
+6SPExample_SAML_PoC.Program.CreateHostBuilder(string[])^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs# (4"0*Û
+0^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs (‘
+Ž
+^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs (+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
+!Microsoft.Extensions.Hosting.Host*
+
+argsstring[]Ë
+È
+^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs (/
+%1)Microsoft.Extensions.Hosting.IHostBuilder"ºMicrosoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
+9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder*
+"""“
+^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs (1
+/
+%1)Microsoft.Extensions.Hosting.IHostBuilder*Ú
+1^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs ("u
+^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs (
+implicit return:
+argsstring[]B"
+SPExample_SAML_PoC.Program

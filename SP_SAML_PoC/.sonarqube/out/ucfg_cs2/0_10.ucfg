@@ -1,0 +1,33 @@
+
+)SPExample_SAML_PoC.Program.Main(string[])^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs ("0*´
+0^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs ("€
+ý
+^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs (#/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"6SPExample_SAML_PoC.Program.CreateHostBuilder(string[])*"
+SPExample_SAML_PoC.Program*
+
+argsstring[]üù
+^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs (+(
+%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()Ç
+Ä
+^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs (1
+
+%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
+>Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
+(
+%1"Microsoft.Extensions.Hosting.IHost*
+1*Ú
+1^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs	 (	"u
+^
+TC:\Projects\Source\PoC\Auth with SAML\SimpleTestSPSAML\SPExample_SAML_PoC\Program.cs (	
+implicit return:
+argsstring[]B"
+SPExample_SAML_PoC.Program

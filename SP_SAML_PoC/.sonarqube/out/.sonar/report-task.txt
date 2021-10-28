@@ -1,0 +1,7 @@
+organization=axamestegui
+projectKey=axamestegui_SimpleTestSPSAML
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.24170
+dashboardUrl=https://sonarcloud.io/dashboard?id=axamestegui_SimpleTestSPSAML
+ceTaskId=AXyn0xa0lhuz48g5VhIP
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXyn0xa0lhuz48g5VhIP

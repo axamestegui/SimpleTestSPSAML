@@ -1,0 +1,18 @@
+ê	
+$SPExample_SAML_PoC.Pages.Pages_Index(Microsoft.AspNetCore.Mvc.RazorPages.Page,Microsoft.AspNetCore.Mvc.RazorPages.PageBase,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseobjectE
+ExecuteAsync()3SPExample_SAML_PoC.Pages.Pages_Index.ExecuteAsync()C
+Pages_Index()2SPExample_SAML_PoC.Pages.Pages_Index.Pages_Index()_
+ModelExpressionProvider.get@SPExample_SAML_PoC.Pages.Pages_Index.ModelExpressionProvider.get_
+ModelExpressionProvider.set@SPExample_SAML_PoC.Pages.Pages_Index.ModelExpressionProvider.set7
+Url.get,SPExample_SAML_PoC.Pages.Pages_Index.Url.get7
+Url.set,SPExample_SAML_PoC.Pages.Pages_Index.Url.setC
+Component.get2SPExample_SAML_PoC.Pages.Pages_Index.Component.getC
+Component.set2SPExample_SAML_PoC.Pages.Pages_Index.Component.set9
+Json.get-SPExample_SAML_PoC.Pages.Pages_Index.Json.get9
+Json.set-SPExample_SAML_PoC.Pages.Pages_Index.Json.set9
+Html.get-SPExample_SAML_PoC.Pages.Pages_Index.Html.get9
+Html.set-SPExample_SAML_PoC.Pages.Pages_Index.Html.setA
+ViewData.get1SPExample_SAML_PoC.Pages.Pages_Index.ViewData.getA
+ViewData.set1SPExample_SAML_PoC.Pages.Pages_Index.ViewData.set;
+	Model.get.SPExample_SAML_PoC.Pages.Pages_Index.Model.get;
+	Model.set.SPExample_SAML_PoC.Pages.Pages_Index.Model.set

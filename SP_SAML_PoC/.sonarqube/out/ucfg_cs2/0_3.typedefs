@@ -1,0 +1,7 @@
+û
+SPExample_SAML_PoC.Startupobject“
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)USPExample_SAML_PoC.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)»
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)iSPExample_SAML_PoC.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ú
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)ˆSPExample_SAML_PoC.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)A
+Configuration.get,SPExample_SAML_PoC.Startup.Configuration.getA
+Configuration.set,SPExample_SAML_PoC.Startup.Configuration.set
