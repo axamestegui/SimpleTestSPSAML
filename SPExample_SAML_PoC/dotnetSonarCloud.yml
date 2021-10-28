@@ -60,6 +60,6 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"axamestegui_SimpleTestSPSAML" /o:"axamestegui" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
-          dotnet build --configuration Release
+          dotnet msbuild SP_SAML_PoC.sln --configuration Release
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
         working-directory: SPExample_SAML_PoC
